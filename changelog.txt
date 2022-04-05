@@ -1,3 +1,7 @@
 version 0.0.1 - 05/04/2022
 ----------------------------
 Le cv de Jason avec bootstrap 5 et un js pour donner l'illusion d'une écriture en temps réél
+
+version 0.0.2 - 05/04/2022
+----------------------------
+Correction de la balise title pour un nom plus complet
